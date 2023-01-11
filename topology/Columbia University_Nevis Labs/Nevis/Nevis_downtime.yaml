@@ -1,0 +1,12 @@
+- Class: UNSCHEDULED
+  ID: 1384467707
+  Description: repo.openscience.org reports 404 error on every page
+  Severity: Outage
+  StartTime: Jan 11, 2023 12:49 +0000
+  EndTime: Jan 11, 2023 14:19 +0000
+  CreatedTime: Jan 11, 2023 14:19 +0000
+  ResourceName: Nevis
+  Services:
+  - CE
+  - XRootD component
+# ---------------------------------------------------------
